@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
+title: "Faizan's Blog"
+author: "Md Faizan Alam"
 description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "fa1319673@gmail.com"
+twitter_username: "MdFaizan711"
+github_username: "Faizan711"
+linkedin_username: "md-faizan-alam-bb2180234"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -20,7 +20,6 @@ linkedin_username: "linkedinuser"
 #########################################################################################
 theme: "minima"
 
-rss: rss
 
 kramdown:
   syntax_highlighter_opts:
